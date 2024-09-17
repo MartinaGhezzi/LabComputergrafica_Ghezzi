@@ -1,0 +1,10 @@
+<!-- definiamo il nostro esempio -->
+<!DOCTYPE html>
+<head>
+    <title> Esempio pagina laboratorio </title>
+</head>
+
+<body>
+    <h1> Esempio pagina html </h1>
+    <p> Lorem ipsum </p>
+</body>
